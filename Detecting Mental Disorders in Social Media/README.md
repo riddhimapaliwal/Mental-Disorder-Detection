@@ -45,7 +45,6 @@ setup_instructions:
   - step: "Run the Project"
     details: >
       Import the project in your IDE, configure Tomcat, and run the app.
-      Access via http://localhost:8080/your_project_name/
 
 features:
   - "User input form for submitting text"
