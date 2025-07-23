@@ -1,4 +1,4 @@
-# Title: "Detecting Mental Disorders in Social Media"
+# Title: Detecting Mental Disorders in Social Media
 ## description: 
   A Java-based web application built using JSP, Servlets, and MySQL. This system simulates analysis of user-submitted text
   (like social media posts) and detects potential signs of mental health conditions such as depression or anxiety using 
